@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833645966726",
+    "firebase_url": "https://gadjet-5c4a4.firebaseio.com",
+    "project_id": "gadjet-5c4a4",
+    "storage_bucket": "gadjet-5c4a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833645966726:android:73608ce1608d70b098a807",
+        "android_client_info": {
+          "package_name": "com.gadget.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833645966726-oe41kaf0vdaqjj61cdsmg2nhtee6a4i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gadget.mobile",
+            "certificate_hash": "1fea243a64b13803d3271a7be7b68536500d9707"
+          }
+        },
+        {
+          "client_id": "833645966726-5gchgf93vr3gk1mb9ou2s45mu4c95uco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzYNI8a2X8xnXgNwwOVij0lAj9mRNYA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833645966726-5gchgf93vr3gk1mb9ou2s45mu4c95uco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
